@@ -1,0 +1,2 @@
+# hashcracker
+Hashcracker in Python!
