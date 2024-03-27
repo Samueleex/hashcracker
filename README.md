@@ -12,3 +12,5 @@ Hashcracker in Python!
 Put the hash to process in hashes.txt!
 
 (You can change the wordlist).
+
+I also added the inhash.py file which does the reverse (from word to hash).
