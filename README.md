@@ -5,9 +5,9 @@ Hashcracker in Python!
 
 # How to install?
 
-- git clone https://github.com/Samueleex/hashcracker
-- cd hashcracker
-- python3 cracker.py
+- `git clone https://github.com/Samueleex/hashcracker`
+- `cd hashcracker`
+- `python3 cracker.py`
 
 Put the hash to process in hashes.txt!
 
